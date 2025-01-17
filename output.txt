@@ -1,0 +1,539 @@
+---------------------------------------------------
+Timestamp:  1731775130.169450
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     01
+CNU MAC:    fc:d2:b6:73:62:c8
+Source:     Micronode
+Rx Good:    2603
+Rx Bad:     27
+Rx % Bad:   1.027
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 1700 | Power: -69 dBm? | SNR: 15 dB | RX PHY: 273 Mbps | TX bits/sym: 1545 | TX PHY: 249 Mbps
+  BandIndex: 1 | RX bits/sym: 975 | Power: -65 dBm? | SNR: 10 dB | RX PHY: 156 Mbps | TX bits/sym: 1859 | TX PHY: 300 Mbps
+  BandIndex: 2 | RX bits/sym: 2554 | Power: -63 dBm? | SNR: 20 dB | RX PHY: 411 Mbps | TX bits/sym: 2891 | TX PHY: 466 Mbps
+  BandIndex: 3 | RX bits/sym: 2644 | Power: -61 dBm? | SNR: 20 dB | RX PHY: 425 Mbps | TX bits/sym: 2671 | TX PHY: 431 Mbps
+  BandIndex: 4 | RX bits/sym: 3172 | Power: -61 dBm? | SNR: 24 dB | RX PHY: 510 Mbps | TX bits/sym: 3285 | TX PHY: 530 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775130.425585
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     01
+CNU MAC:    fc:d2:b6:73:62:c8
+Source:     CNU
+Rx Good:    79168
+Rx Bad:     7
+Rx % Bad:   0.009
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 1545 | Power: -68 dBm? | SNR: 14 dB | RX PHY: 249 Mbps | TX bits/sym: 1700 | TX PHY: 273 Mbps
+  BandIndex: 2 | RX bits/sym: 2891 | Power: -64 dBm? | SNR: 22 dB | RX PHY: 466 Mbps | TX bits/sym: 2554 | TX PHY: 411 Mbps
+  BandIndex: 3 | RX bits/sym: 2671 | Power: -62 dBm? | SNR: 21 dB | RX PHY: 431 Mbps | TX bits/sym: 2644 | TX PHY: 425 Mbps
+  BandIndex: 4 | RX bits/sym: 3285 | Power: -61 dBm? | SNR: 25 dB | RX PHY: 530 Mbps | TX bits/sym: 3172 | TX PHY: 510 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775130.529596
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     02
+CNU MAC:    fc:d2:b6:73:64:1c
+Source:     Micronode
+Rx Good:    3467
+Rx Bad:     16
+Rx % Bad:   0.459
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4826 | Power: -39 dBm? | SNR: 36 dB | RX PHY: 779 Mbps | TX bits/sym: 4844 | TX PHY: 782 Mbps
+  BandIndex: 1 | RX bits/sym: 4816 | Power: -37 dBm? | SNR: 35 dB | RX PHY: 777 Mbps | TX bits/sym: 4743 | TX PHY: 766 Mbps
+  BandIndex: 2 | RX bits/sym: 4841 | Power: -43 dBm? | SNR: 33 dB | RX PHY: 781 Mbps | TX bits/sym: 4856 | TX PHY: 784 Mbps
+  BandIndex: 3 | RX bits/sym: 4814 | Power: -38 dBm? | SNR: 36 dB | RX PHY: 777 Mbps | TX bits/sym: 4767 | TX PHY: 769 Mbps
+  BandIndex: 4 | RX bits/sym: 4859 | Power: -41 dBm? | SNR: 35 dB | RX PHY: 784 Mbps | TX bits/sym: 4712 | TX PHY: 761 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775130.790128
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     02
+CNU MAC:    fc:d2:b6:73:64:1c
+Source:     CNU
+Rx Good:    175843
+Rx Bad:     31
+Rx % Bad:   0.018
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4844 | Power: -45 dBm? | SNR: 33 dB | RX PHY: 782 Mbps | TX bits/sym: 4826 | TX PHY: 779 Mbps
+  BandIndex: 1 | RX bits/sym: 4743 | Power: -42 dBm? | SNR: 34 dB | RX PHY: 766 Mbps | TX bits/sym: 4816 | TX PHY: 777 Mbps
+  BandIndex: 2 | RX bits/sym: 4856 | Power: -45 dBm? | SNR: 33 dB | RX PHY: 784 Mbps | TX bits/sym: 4841 | TX PHY: 781 Mbps
+  BandIndex: 3 | RX bits/sym: 4767 | Power: -38 dBm? | SNR: 35 dB | RX PHY: 769 Mbps | TX bits/sym: 4814 | TX PHY: 777 Mbps
+  BandIndex: 4 | RX bits/sym: 4712 | Power: -40 dBm? | SNR: 35 dB | RX PHY: 761 Mbps | TX bits/sym: 4859 | TX PHY: 784 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775130.859515
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     03
+CNU MAC:    fc:d2:b6:73:66:10
+Source:     Micronode
+Rx Good:    144359
+Rx Bad:     302
+Rx % Bad:   0.209
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4829 | Power: -41 dBm? | SNR: 36 dB | RX PHY: 779 Mbps | TX bits/sym: 4821 | TX PHY: 778 Mbps
+  BandIndex: 1 | RX bits/sym: 4801 | Power: -38 dBm? | SNR: 35 dB | RX PHY: 775 Mbps | TX bits/sym: 4707 | TX PHY: 760 Mbps
+  BandIndex: 2 | RX bits/sym: 4829 | Power: -43 dBm? | SNR: 33 dB | RX PHY: 779 Mbps | TX bits/sym: 4852 | TX PHY: 783 Mbps
+  BandIndex: 3 | RX bits/sym: 4834 | Power: -36 dBm? | SNR: 38 dB | RX PHY: 780 Mbps | TX bits/sym: 4677 | TX PHY: 755 Mbps
+  BandIndex: 4 | RX bits/sym: 4862 | Power: -39 dBm? | SNR: 37 dB | RX PHY: 785 Mbps | TX bits/sym: 4846 | TX PHY: 782 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775131.122060
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     03
+CNU MAC:    fc:d2:b6:73:66:10
+Source:     CNU
+Rx Good:    227308
+Rx Bad:     23
+Rx % Bad:   0.010
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4821 | Power: -46 dBm? | SNR: 34 dB | RX PHY: 778 Mbps | TX bits/sym: 4829 | TX PHY: 779 Mbps
+  BandIndex: 1 | RX bits/sym: 4707 | Power: -41 dBm? | SNR: 35 dB | RX PHY: 760 Mbps | TX bits/sym: 4801 | TX PHY: 775 Mbps
+  BandIndex: 2 | RX bits/sym: 4852 | Power: -46 dBm? | SNR: 34 dB | RX PHY: 783 Mbps | TX bits/sym: 4829 | TX PHY: 779 Mbps
+  BandIndex: 3 | RX bits/sym: 4677 | Power: -39 dBm? | SNR: 35 dB | RX PHY: 755 Mbps | TX bits/sym: 4834 | TX PHY: 780 Mbps
+  BandIndex: 4 | RX bits/sym: 4846 | Power: -45 dBm? | SNR: 34 dB | RX PHY: 782 Mbps | TX bits/sym: 4862 | TX PHY: 785 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775131.229600
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     04
+CNU MAC:    fc:d2:b6:73:66:0a
+Source:     Micronode
+Rx Good:    2677
+Rx Bad:     30
+Rx % Bad:   1.108
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4815 | Power: -38 dBm? | SNR: 36 dB | RX PHY: 777 Mbps | TX bits/sym: 4796 | TX PHY: 774 Mbps
+  BandIndex: 1 | RX bits/sym: 4808 | Power: -37 dBm? | SNR: 35 dB | RX PHY: 776 Mbps | TX bits/sym: 4780 | TX PHY: 771 Mbps
+  BandIndex: 2 | RX bits/sym: 4828 | Power: -42 dBm? | SNR: 33 dB | RX PHY: 779 Mbps | TX bits/sym: 4844 | TX PHY: 782 Mbps
+  BandIndex: 3 | RX bits/sym: 4842 | Power: -34 dBm? | SNR: 38 dB | RX PHY: 781 Mbps | TX bits/sym: 4686 | TX PHY: 756 Mbps
+  BandIndex: 4 | RX bits/sym: 4861 | Power: -40 dBm? | SNR: 35 dB | RX PHY: 785 Mbps | TX bits/sym: 4845 | TX PHY: 782 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775131.477519
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     04
+CNU MAC:    fc:d2:b6:73:66:0a
+Source:     CNU
+Rx Good:    170646
+Rx Bad:     9
+Rx % Bad:   0.005
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4796 | Power: -45 dBm? | SNR: 33 dB | RX PHY: 774 Mbps | TX bits/sym: 4815 | TX PHY: 777 Mbps
+  BandIndex: 1 | RX bits/sym: 4780 | Power: -37 dBm? | SNR: 35 dB | RX PHY: 771 Mbps | TX bits/sym: 4808 | TX PHY: 776 Mbps
+  BandIndex: 2 | RX bits/sym: 4844 | Power: -45 dBm? | SNR: 33 dB | RX PHY: 782 Mbps | TX bits/sym: 4828 | TX PHY: 779 Mbps
+  BandIndex: 3 | RX bits/sym: 4686 | Power: -37 dBm? | SNR: 35 dB | RX PHY: 756 Mbps | TX bits/sym: 4842 | TX PHY: 781 Mbps
+  BandIndex: 4 | RX bits/sym: 4845 | Power: -43 dBm? | SNR: 34 dB | RX PHY: 782 Mbps | TX bits/sym: 4861 | TX PHY: 785 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775131.524990
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     05
+CNU MAC:    fc:d2:b6:73:66:07
+Source:     Micronode
+Rx Good:    1611
+Rx Bad:     5
+Rx % Bad:   0.309
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4832 | Power: -34 dBm? | SNR: 36 dB | RX PHY: 772 Mbps | TX bits/sym: 4822 | TX PHY: 778 Mbps
+  BandIndex: 1 | RX bits/sym: 4829 | Power: -35 dBm? | SNR: 35 dB | RX PHY: 771 Mbps | TX bits/sym: 4827 | TX PHY: 779 Mbps
+  BandIndex: 2 | RX bits/sym: 4861 | Power: -35 dBm? | SNR: 35 dB | RX PHY: 776 Mbps | TX bits/sym: 4852 | TX PHY: 783 Mbps
+  BandIndex: 3 | RX bits/sym: 4862 | Power: -30 dBm? | SNR: 38 dB | RX PHY: 776 Mbps | TX bits/sym: 4766 | TX PHY: 769 Mbps
+  BandIndex: 4 | RX bits/sym: 4864 | Power: -32 dBm? | SNR: 37 dB | RX PHY: 777 Mbps | TX bits/sym: 4855 | TX PHY: 784 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775131.777660
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     05
+CNU MAC:    fc:d2:b6:73:66:07
+Source:     CNU
+Rx Good:    167311
+Rx Bad:     20
+Rx % Bad:   0.012
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4822 | Power: -46 dBm? | SNR: 33 dB | RX PHY: 778 Mbps | TX bits/sym: 4832 | TX PHY: 772 Mbps
+  BandIndex: 1 | RX bits/sym: 4827 | Power: -42 dBm? | SNR: 35 dB | RX PHY: 779 Mbps | TX bits/sym: 4829 | TX PHY: 771 Mbps
+  BandIndex: 2 | RX bits/sym: 4852 | Power: -45 dBm? | SNR: 33 dB | RX PHY: 783 Mbps | TX bits/sym: 4861 | TX PHY: 776 Mbps
+  BandIndex: 3 | RX bits/sym: 4766 | Power: -39 dBm? | SNR: 35 dB | RX PHY: 769 Mbps | TX bits/sym: 4862 | TX PHY: 776 Mbps
+  BandIndex: 4 | RX bits/sym: 4855 | Power: -39 dBm? | SNR: 36 dB | RX PHY: 784 Mbps | TX bits/sym: 4864 | TX PHY: 777 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775131.829088
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     06
+CNU MAC:    fc:d2:b6:73:66:1d
+Source:     Micronode
+Rx Good:    21955
+Rx Bad:     164
+Rx % Bad:   0.741
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4841 | Power: -39 dBm? | SNR: 37 dB | RX PHY: 781 Mbps | TX bits/sym: 4844 | TX PHY: 782 Mbps
+  BandIndex: 1 | RX bits/sym: 4800 | Power: -39 dBm? | SNR: 35 dB | RX PHY: 775 Mbps | TX bits/sym: 4748 | TX PHY: 766 Mbps
+  BandIndex: 2 | RX bits/sym: 4855 | Power: -41 dBm? | SNR: 35 dB | RX PHY: 784 Mbps | TX bits/sym: 4846 | TX PHY: 782 Mbps
+  BandIndex: 3 | RX bits/sym: 4836 | Power: -37 dBm? | SNR: 37 dB | RX PHY: 781 Mbps | TX bits/sym: 4727 | TX PHY: 763 Mbps
+  BandIndex: 4 | RX bits/sym: 4859 | Power: -41 dBm? | SNR: 35 dB | RX PHY: 784 Mbps | TX bits/sym: 4846 | TX PHY: 782 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775132.190738
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     07
+CNU MAC:    fc:d2:b6:73:64:1a
+Source:     Micronode
+Rx Good:    5919
+Rx Bad:     80
+Rx % Bad:   1.334
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4813 | Power: -42 dBm? | SNR: 34 dB | RX PHY: 777 Mbps | TX bits/sym: 4846 | TX PHY: 782 Mbps
+  BandIndex: 1 | RX bits/sym: 4820 | Power: -38 dBm? | SNR: 35 dB | RX PHY: 778 Mbps | TX bits/sym: 4782 | TX PHY: 772 Mbps
+  BandIndex: 2 | RX bits/sym: 4804 | Power: -43 dBm? | SNR: 33 dB | RX PHY: 775 Mbps | TX bits/sym: 4857 | TX PHY: 784 Mbps
+  BandIndex: 3 | RX bits/sym: 4826 | Power: -37 dBm? | SNR: 36 dB | RX PHY: 779 Mbps | TX bits/sym: 4834 | TX PHY: 780 Mbps
+  BandIndex: 4 | RX bits/sym: 4861 | Power: -41 dBm? | SNR: 35 dB | RX PHY: 785 Mbps | TX bits/sym: 4862 | TX PHY: 785 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775132.437708
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     07
+CNU MAC:    fc:d2:b6:73:64:1a
+Source:     CNU
+Rx Good:    172808
+Rx Bad:     12
+Rx % Bad:   0.007
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4846 | Power: -47 dBm? | SNR: 34 dB | RX PHY: 782 Mbps | TX bits/sym: 4813 | TX PHY: 777 Mbps
+  BandIndex: 1 | RX bits/sym: 4782 | Power: -44 dBm? | SNR: 35 dB | RX PHY: 772 Mbps | TX bits/sym: 4820 | TX PHY: 778 Mbps
+  BandIndex: 2 | RX bits/sym: 4857 | Power: -48 dBm? | SNR: 33 dB | RX PHY: 784 Mbps | TX bits/sym: 4804 | TX PHY: 775 Mbps
+  BandIndex: 3 | RX bits/sym: 4834 | Power: -43 dBm? | SNR: 35 dB | RX PHY: 780 Mbps | TX bits/sym: 4826 | TX PHY: 779 Mbps
+  BandIndex: 4 | RX bits/sym: 4862 | Power: -46 dBm? | SNR: 34 dB | RX PHY: 785 Mbps | TX bits/sym: 4861 | TX PHY: 785 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775132.561645
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     08
+CNU MAC:    fc:d2:b6:73:62:8e
+Source:     Micronode
+Rx Good:    6704
+Rx Bad:     42
+Rx % Bad:   0.623
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4800 | Power: -41 dBm? | SNR: 34 dB | RX PHY: 775 Mbps | TX bits/sym: 4823 | TX PHY: 778 Mbps
+  BandIndex: 1 | RX bits/sym: 4859 | Power: -39 dBm? | SNR: 34 dB | RX PHY: 784 Mbps | TX bits/sym: 4790 | TX PHY: 773 Mbps
+  BandIndex: 2 | RX bits/sym: 4749 | Power: -43 dBm? | SNR: 32 dB | RX PHY: 766 Mbps | TX bits/sym: 4796 | TX PHY: 774 Mbps
+  BandIndex: 3 | RX bits/sym: 4849 | Power: -34 dBm? | SNR: 37 dB | RX PHY: 783 Mbps | TX bits/sym: 4750 | TX PHY: 767 Mbps
+  BandIndex: 4 | RX bits/sym: 4862 | Power: -38 dBm? | SNR: 35 dB | RX PHY: 785 Mbps | TX bits/sym: 4677 | TX PHY: 755 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775132.821597
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     08
+CNU MAC:    fc:d2:b6:73:62:8e
+Source:     CNU
+Rx Good:    171691
+Rx Bad:     27
+Rx % Bad:   0.016
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4823 | Power: -44 dBm? | SNR: 34 dB | RX PHY: 778 Mbps | TX bits/sym: 4800 | TX PHY: 775 Mbps
+  BandIndex: 1 | RX bits/sym: 4790 | Power: -39 dBm? | SNR: 35 dB | RX PHY: 773 Mbps | TX bits/sym: 4859 | TX PHY: 784 Mbps
+  BandIndex: 2 | RX bits/sym: 4796 | Power: -46 dBm? | SNR: 33 dB | RX PHY: 774 Mbps | TX bits/sym: 4749 | TX PHY: 766 Mbps
+  BandIndex: 3 | RX bits/sym: 4750 | Power: -39 dBm? | SNR: 35 dB | RX PHY: 767 Mbps | TX bits/sym: 4849 | TX PHY: 783 Mbps
+  BandIndex: 4 | RX bits/sym: 4677 | Power: -43 dBm? | SNR: 33 dB | RX PHY: 755 Mbps | TX bits/sym: 4862 | TX PHY: 785 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775132.905523
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     09
+CNU MAC:    fc:d2:b6:73:64:32
+Source:     Micronode
+Rx Good:    1860
+Rx Bad:     21
+Rx % Bad:   1.116
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4813 | Power: -41 dBm? | SNR: 35 dB | RX PHY: 777 Mbps | TX bits/sym: 4819 | TX PHY: 778 Mbps
+  BandIndex: 1 | RX bits/sym: 4868 | Power: -37 dBm? | SNR: 36 dB | RX PHY: 786 Mbps | TX bits/sym: 4855 | TX PHY: 784 Mbps
+  BandIndex: 2 | RX bits/sym: 4855 | Power: -41 dBm? | SNR: 35 dB | RX PHY: 784 Mbps | TX bits/sym: 4795 | TX PHY: 774 Mbps
+  BandIndex: 3 | RX bits/sym: 4825 | Power: -37 dBm? | SNR: 37 dB | RX PHY: 779 Mbps | TX bits/sym: 4612 | TX PHY: 744 Mbps
+  BandIndex: 4 | RX bits/sym: 4861 | Power: -41 dBm? | SNR: 35 dB | RX PHY: 785 Mbps | TX bits/sym: 4820 | TX PHY: 778 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775133.161630
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     09
+CNU MAC:    fc:d2:b6:73:64:32
+Source:     CNU
+Rx Good:    169446
+Rx Bad:     25
+Rx % Bad:   0.015
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4819 | Power: -46 dBm? | SNR: 33 dB | RX PHY: 778 Mbps | TX bits/sym: 4813 | TX PHY: 777 Mbps
+  BandIndex: 1 | RX bits/sym: 4855 | Power: -40 dBm? | SNR: 36 dB | RX PHY: 784 Mbps | TX bits/sym: 4868 | TX PHY: 786 Mbps
+  BandIndex: 2 | RX bits/sym: 4795 | Power: -46 dBm? | SNR: 33 dB | RX PHY: 774 Mbps | TX bits/sym: 4855 | TX PHY: 784 Mbps
+  BandIndex: 3 | RX bits/sym: 4612 | Power: -38 dBm? | SNR: 35 dB | RX PHY: 744 Mbps | TX bits/sym: 4825 | TX PHY: 779 Mbps
+  BandIndex: 4 | RX bits/sym: 4820 | Power: -43 dBm? | SNR: 34 dB | RX PHY: 778 Mbps | TX bits/sym: 4861 | TX PHY: 785 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775133.227064
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     10
+CNU MAC:    fc:d2:b6:73:62:c3
+Source:     Micronode
+Rx Good:    17036
+Rx Bad:     182
+Rx % Bad:   1.057
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 2509 | Power: -65 dBm? | SNR: 20 dB | RX PHY: 396 Mbps | TX bits/sym: 2450 | TX PHY: 395 Mbps
+  BandIndex: 1 | RX bits/sym: 1830 | Power: -61 dBm? | SNR: 16 dB | RX PHY: 289 Mbps | TX bits/sym: 1504 | TX PHY: 242 Mbps
+  BandIndex: 2 | RX bits/sym: 3198 | Power: -58 dBm? | SNR: 24 dB | RX PHY: 505 Mbps | TX bits/sym: 3550 | TX PHY: 573 Mbps
+  BandIndex: 3 | RX bits/sym: 3320 | Power: -58 dBm? | SNR: 25 dB | RX PHY: 524 Mbps | TX bits/sym: 2274 | TX PHY: 367 Mbps
+  BandIndex: 4 | RX bits/sym: 3897 | Power: -56 dBm? | SNR: 28 dB | RX PHY: 616 Mbps | TX bits/sym: 3360 | TX PHY: 542 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775133.478074
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     10
+CNU MAC:    fc:d2:b6:73:62:c3
+Source:     CNU
+Rx Good:    216093
+Rx Bad:     437
+Rx % Bad:   0.202
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 2450 | Power: -64 dBm? | SNR: 20 dB | RX PHY: 395 Mbps | TX bits/sym: 2509 | TX PHY: 396 Mbps
+  BandIndex: 1 | RX bits/sym: 1504 | Power: -59 dBm? | SNR: 13 dB | RX PHY: 242 Mbps | TX bits/sym: 1830 | TX PHY: 289 Mbps
+  BandIndex: 2 | RX bits/sym: 3550 | Power: -59 dBm? | SNR: 26 dB | RX PHY: 573 Mbps | TX bits/sym: 3198 | TX PHY: 505 Mbps
+  BandIndex: 3 | RX bits/sym: 2274 | Power: -56 dBm? | SNR: 18 dB | RX PHY: 367 Mbps | TX bits/sym: 3320 | TX PHY: 524 Mbps
+  BandIndex: 4 | RX bits/sym: 3360 | Power: -55 dBm? | SNR: 25 dB | RX PHY: 542 Mbps | TX bits/sym: 3897 | TX PHY: 616 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775133.586760
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     11
+CNU MAC:    fc:d2:b6:73:65:f7
+Source:     Micronode
+Rx Good:    7414
+Rx Bad:     63
+Rx % Bad:   0.843
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4827 | Power: -40 dBm? | SNR: 36 dB | RX PHY: 779 Mbps | TX bits/sym: 4835 | TX PHY: 780 Mbps
+  BandIndex: 1 | RX bits/sym: 4867 | Power: -38 dBm? | SNR: 35 dB | RX PHY: 786 Mbps | TX bits/sym: 4748 | TX PHY: 766 Mbps
+  BandIndex: 2 | RX bits/sym: 4854 | Power: -42 dBm? | SNR: 34 dB | RX PHY: 783 Mbps | TX bits/sym: 4854 | TX PHY: 783 Mbps
+  BandIndex: 3 | RX bits/sym: 4818 | Power: -37 dBm? | SNR: 37 dB | RX PHY: 778 Mbps | TX bits/sym: 4660 | TX PHY: 752 Mbps
+  BandIndex: 4 | RX bits/sym: 4860 | Power: -38 dBm? | SNR: 37 dB | RX PHY: 784 Mbps | TX bits/sym: 4712 | TX PHY: 761 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775133.849895
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     11
+CNU MAC:    fc:d2:b6:73:65:f7
+Source:     CNU
+Rx Good:    175914
+Rx Bad:     10
+Rx % Bad:   0.006
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4835 | Power: -47 dBm? | SNR: 33 dB | RX PHY: 780 Mbps | TX bits/sym: 4827 | TX PHY: 779 Mbps
+  BandIndex: 1 | RX bits/sym: 4748 | Power: -41 dBm? | SNR: 35 dB | RX PHY: 766 Mbps | TX bits/sym: 4867 | TX PHY: 786 Mbps
+  BandIndex: 2 | RX bits/sym: 4854 | Power: -46 dBm? | SNR: 34 dB | RX PHY: 783 Mbps | TX bits/sym: 4854 | TX PHY: 783 Mbps
+  BandIndex: 3 | RX bits/sym: 4660 | Power: -39 dBm? | SNR: 35 dB | RX PHY: 752 Mbps | TX bits/sym: 4818 | TX PHY: 778 Mbps
+  BandIndex: 4 | RX bits/sym: 4712 | Power: -45 dBm? | SNR: 33 dB | RX PHY: 761 Mbps | TX bits/sym: 4860 | TX PHY: 784 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775133.913694
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     13
+CNU MAC:    fc:d2:b6:73:66:1b
+Source:     Micronode
+Rx Good:    7893
+Rx Bad:     45
+Rx % Bad:   0.567
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4837 | Power: -39 dBm? | SNR: 36 dB | RX PHY: 781 Mbps | TX bits/sym: 4777 | TX PHY: 771 Mbps
+  BandIndex: 1 | RX bits/sym: 4854 | Power: -36 dBm? | SNR: 36 dB | RX PHY: 783 Mbps | TX bits/sym: 4297 | TX PHY: 693 Mbps
+  BandIndex: 2 | RX bits/sym: 4801 | Power: -42 dBm? | SNR: 33 dB | RX PHY: 775 Mbps | TX bits/sym: 4855 | TX PHY: 784 Mbps
+  BandIndex: 3 | RX bits/sym: 4860 | Power: -35 dBm? | SNR: 37 dB | RX PHY: 784 Mbps | TX bits/sym: 4090 | TX PHY: 660 Mbps
+  BandIndex: 4 | RX bits/sym: 4821 | Power: -41 dBm? | SNR: 34 dB | RX PHY: 778 Mbps | TX bits/sym: 4554 | TX PHY: 735 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775134.174277
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     13
+CNU MAC:    fc:d2:b6:73:66:1b
+Source:     CNU
+Rx Good:    187438
+Rx Bad:     11
+Rx % Bad:   0.006
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4777 | Power: -44 dBm? | SNR: 34 dB | RX PHY: 771 Mbps | TX bits/sym: 4837 | TX PHY: 781 Mbps
+  BandIndex: 1 | RX bits/sym: 4297 | Power: -38 dBm? | SNR: 31 dB | RX PHY: 693 Mbps | TX bits/sym: 4854 | TX PHY: 783 Mbps
+  BandIndex: 2 | RX bits/sym: 4855 | Power: -44 dBm? | SNR: 34 dB | RX PHY: 784 Mbps | TX bits/sym: 4801 | TX PHY: 775 Mbps
+  BandIndex: 3 | RX bits/sym: 4090 | Power: -39 dBm? | SNR: 31 dB | RX PHY: 660 Mbps | TX bits/sym: 4860 | TX PHY: 784 Mbps
+  BandIndex: 4 | RX bits/sym: 4554 | Power: -39 dBm? | SNR: 34 dB | RX PHY: 735 Mbps | TX bits/sym: 4821 | TX PHY: 778 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775134.257546
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     17
+CNU MAC:    fc:d2:b6:73:62:bf
+Source:     Micronode
+Rx Good:    2686
+Rx Bad:     34
+Rx % Bad:   1.250
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 1723 | Power: -69 dBm? | SNR: 15 dB | RX PHY: 264 Mbps | TX bits/sym: 2039 | TX PHY: 329 Mbps
+  BandIndex: 1 | RX bits/sym: 1229 | Power: -64 dBm? | SNR: 12 dB | RX PHY: 188 Mbps | TX bits/sym: 2099 | TX PHY: 338 Mbps
+  BandIndex: 2 | RX bits/sym: 2788 | Power: -61 dBm? | SNR: 22 dB | RX PHY: 428 Mbps | TX bits/sym: 3303 | TX PHY: 533 Mbps
+  BandIndex: 3 | RX bits/sym: 3016 | Power: -59 dBm? | SNR: 23 dB | RX PHY: 463 Mbps | TX bits/sym: 2970 | TX PHY: 479 Mbps
+  BandIndex: 4 | RX bits/sym: 3692 | Power: -58 dBm? | SNR: 27 dB | RX PHY: 567 Mbps | TX bits/sym: 3501 | TX PHY: 565 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775134.521943
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     17
+CNU MAC:    fc:d2:b6:73:62:bf
+Source:     CNU
+Rx Good:    170036
+Rx Bad:     13
+Rx % Bad:   0.008
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 2039 | Power: -69 dBm? | SNR: 18 dB | RX PHY: 329 Mbps | TX bits/sym: 1723 | TX PHY: 264 Mbps
+  BandIndex: 1 | RX bits/sym: 2099 | Power: -65 dBm? | SNR: 17 dB | RX PHY: 338 Mbps | TX bits/sym: 1229 | TX PHY: 188 Mbps
+  BandIndex: 2 | RX bits/sym: 3303 | Power: -62 dBm? | SNR: 24 dB | RX PHY: 533 Mbps | TX bits/sym: 2788 | TX PHY: 428 Mbps
+  BandIndex: 3 | RX bits/sym: 2970 | Power: -58 dBm? | SNR: 22 dB | RX PHY: 479 Mbps | TX bits/sym: 3016 | TX PHY: 463 Mbps
+  BandIndex: 4 | RX bits/sym: 3501 | Power: -57 dBm? | SNR: 26 dB | RX PHY: 565 Mbps | TX bits/sym: 3692 | TX PHY: 567 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775134.609950
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     22
+CNU MAC:    fc:d2:b6:73:66:18
+Source:     Micronode
+Rx Good:    29066
+Rx Bad:     45
+Rx % Bad:   0.155
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4834 | Power: -41 dBm? | SNR: 36 dB | RX PHY: 780 Mbps | TX bits/sym: 4846 | TX PHY: 782 Mbps
+  BandIndex: 1 | RX bits/sym: 4856 | Power: -37 dBm? | SNR: 36 dB | RX PHY: 784 Mbps | TX bits/sym: 4764 | TX PHY: 769 Mbps
+  BandIndex: 2 | RX bits/sym: 4767 | Power: -43 dBm? | SNR: 33 dB | RX PHY: 769 Mbps | TX bits/sym: 4852 | TX PHY: 783 Mbps
+  BandIndex: 3 | RX bits/sym: 4838 | Power: -37 dBm? | SNR: 37 dB | RX PHY: 781 Mbps | TX bits/sym: 4676 | TX PHY: 755 Mbps
+  BandIndex: 4 | RX bits/sym: 4864 | Power: -40 dBm? | SNR: 36 dB | RX PHY: 785 Mbps | TX bits/sym: 4770 | TX PHY: 770 Mbps
+---------------------------------------------------
+---------------------------------------------------
+Timestamp:  1731775134.873583
+Level:      INF
+Module:     AAAA
+Function:   main
+Line:       815
+MoCA Port:  1 (en12)
+CNU ID:     22
+CNU MAC:    fc:d2:b6:73:66:18
+Source:     CNU
+Rx Good:    309072
+Rx Bad:     19
+Rx % Bad:   0.006
+Channel Stats:
+  BandIndex: 0 | RX bits/sym: 4846 | Power: -46 dBm? | SNR: 34 dB | RX PHY: 782 Mbps | TX bits/sym: 4834 | TX PHY: 780 Mbps
+  BandIndex: 1 | RX bits/sym: 4764 | Power: -45 dBm? | SNR: 34 dB | RX PHY: 769 Mbps | TX bits/sym: 4856 | TX PHY: 784 Mbps
+  BandIndex: 2 | RX bits/sym: 4852 | Power: -47 dBm? | SNR: 33 dB | RX PHY: 783 Mbps | TX bits/sym: 4767 | TX PHY: 769 Mbps
+  BandIndex: 3 | RX bits/sym: 4676 | Power: -39 dBm? | SNR: 35 dB | RX PHY: 755 Mbps | TX bits/sym: 4838 | TX PHY: 781 Mbps
+  BandIndex: 4 | RX bits/sym: 4770 | Power: -45 dBm? | SNR: 34 dB | RX PHY: 770 Mbps | TX bits/sym: 4864 | TX PHY: 785 Mbps
+---------------------------------------------------
