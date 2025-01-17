@@ -1,4 +1,5 @@
 # MicroManager
+Debug tools for management and diagnostics on TeamlyDigital Micronodes. 
 
 ## Installation
 
